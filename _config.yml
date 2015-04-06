@@ -1,7 +1,13 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
+<<<<<<< variant A
 # baseurl: /
+>>>>>>> variant B
+#baseurl: /
+####### Ancestor
+baseurl: /harmony
+======= end
 
 # Site live URL
 url: http://rdrr.github.io
